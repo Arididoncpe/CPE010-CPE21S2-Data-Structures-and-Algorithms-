@@ -19,7 +19,7 @@
 
 # 📌 About This Repository
 
-This repository contains my coursework, laboratory exercises, programming activities, documentation, and data visualization projects for **CPE 010 - Data Structures and Algorithms**.
+This repository contains my coursework, laboratory exercises, programming activities, documentation, and data structures projects for **CPE 010 - Data Structures and Algorithms**.
 
 
 ---
